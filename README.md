@@ -26,5 +26,5 @@ This project analyzes sales and revenue data to identify business trends, top-pe
 ## 📷 Dashboard / Visuals
 
 ![Revenue](Revenue.png)
-![Sales](Sales.png)
+![Sales](Sales.png) 
 ![Profit](Profit.png)
